@@ -1,0 +1,500 @@
+{"idx": 0, "label": 1, "gen": "World", "pred": 0, "conf": 0.4438161849975586}
+{"idx": 1, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6634004712104797}
+{"idx": 2, "label": 1, "gen": "Business", "pred": 2, "conf": 0.5283080339431763}
+{"idx": 3, "label": 3, "gen": "Business", "pred": 2, "conf": 0.897818386554718}
+{"idx": 4, "label": 0, "gen": "World", "pred": 0, "conf": 0.7519136667251587}
+{"idx": 5, "label": 3, "gen": "Business", "pred": 2, "conf": 0.5841058492660522}
+{"idx": 6, "label": 2, "gen": "World", "pred": 0, "conf": 0.6629222631454468}
+{"idx": 7, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8789840340614319}
+{"idx": 8, "label": 0, "gen": "World", "pred": 0, "conf": 0.5190117955207825}
+{"idx": 9, "label": 2, "gen": "World", "pred": 0, "conf": 0.6731063723564148}
+{"idx": 10, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.8469613790512085}
+{"idx": 11, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7959516048431396}
+{"idx": 12, "label": 3, "gen": "Sci/Tech", "pred": 3, "conf": 0.6837763786315918}
+{"idx": 13, "label": 0, "gen": "World", "pred": 0, "conf": 0.7187312245368958}
+{"idx": 14, "label": 0, "gen": "World", "pred": 0, "conf": 0.8124423623085022}
+{"idx": 15, "label": 3, "gen": "Business", "pred": 2, "conf": 0.7673138380050659}
+{"idx": 16, "label": 1, "gen": "World", "pred": 0, "conf": 0.7420631051063538}
+{"idx": 17, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8129910826683044}
+{"idx": 18, "label": 0, "gen": "World", "pred": 0, "conf": 0.7699966430664062}
+{"idx": 19, "label": 0, "gen": "World", "pred": 0, "conf": 0.7085382342338562}
+{"idx": 20, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6962876319885254}
+{"idx": 21, "label": 0, "gen": "World", "pred": 0, "conf": 0.6336608529090881}
+{"idx": 22, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8580011129379272}
+{"idx": 23, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7674323916435242}
+{"idx": 24, "label": 0, "gen": "World", "pred": 0, "conf": 0.9044055938720703}
+{"idx": 25, "label": 0, "gen": "World", "pred": 0, "conf": 0.6675775051116943}
+{"idx": 26, "label": 3, "gen": "Class: World", "pred": 0, "conf": 0.8293249607086182}
+{"idx": 27, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8974167108535767}
+{"idx": 28, "label": 3, "gen": "Business", "pred": 2, "conf": 0.814484715461731}
+{"idx": 29, "label": 3, "gen": "World", "pred": 0, "conf": 0.3889366686344147}
+{"idx": 30, "label": 2, "gen": "World", "pred": 0, "conf": 0.5929564237594604}
+{"idx": 31, "label": 2, "gen": "Business", "pred": 2, "conf": 0.4790830910205841}
+{"idx": 32, "label": 1, "gen": "World", "pred": 0, "conf": 0.6373550295829773}
+{"idx": 33, "label": 2, "gen": "World  \nWorld", "pred": 0, "conf": 0.558465838432312}
+{"idx": 34, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8403622508049011}
+{"idx": 35, "label": 0, "gen": "World", "pred": 0, "conf": 0.6717432141304016}
+{"idx": 36, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6910287737846375}
+{"idx": 37, "label": 1, "gen": "World", "pred": 0, "conf": 0.8119964003562927}
+{"idx": 38, "label": 0, "gen": "World", "pred": 0, "conf": 0.6431910991668701}
+{"idx": 39, "label": 3, "gen": "Class: Business", "pred": 0, "conf": 0.5241414308547974}
+{"idx": 40, "label": 0, "gen": "World", "pred": 0, "conf": 0.8903502225875854}
+{"idx": 41, "label": 3, "gen": "Business", "pred": 2, "conf": 0.7001668810844421}
+{"idx": 42, "label": 0, "gen": "World", "pred": 0, "conf": 0.7199351191520691}
+{"idx": 43, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.5868566632270813}
+{"idx": 44, "label": 2, "gen": "World", "pred": 0, "conf": 0.6476401090621948}
+{"idx": 45, "label": 3, "gen": "World", "pred": 0, "conf": 0.5460789203643799}
+{"idx": 46, "label": 1, "gen": "World", "pred": 0, "conf": 0.6718057990074158}
+{"idx": 47, "label": 2, "gen": "Class: Business", "pred": 2, "conf": 0.5559818744659424}
+{"idx": 48, "label": 0, "gen": "World", "pred": 0, "conf": 0.954653263092041}
+{"idx": 49, "label": 1, "gen": "World", "pred": 0, "conf": 0.3360539972782135}
+{"idx": 50, "label": 1, "gen": "World", "pred": 0, "conf": 0.7636786103248596}
+{"idx": 51, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8337595462799072}
+{"idx": 52, "label": 0, "gen": "World", "pred": 0, "conf": 0.9179748296737671}
+{"idx": 53, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6432574391365051}
+{"idx": 54, "label": 0, "gen": "World", "pred": 0, "conf": 0.6691087484359741}
+{"idx": 55, "label": 3, "gen": "Sci/Tech", "pred": 3, "conf": 0.5396134257316589}
+{"idx": 56, "label": 0, "gen": "World", "pred": 0, "conf": 0.8290932774543762}
+{"idx": 57, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8877829909324646}
+{"idx": 58, "label": 3, "gen": "Class: Sci/T", "pred": 0, "conf": 0.40148860216140747}
+{"idx": 59, "label": 2, "gen": "Business", "pred": 2, "conf": 0.5578205585479736}
+{"idx": 60, "label": 1, "gen": "World", "pred": 0, "conf": 0.8349844813346863}
+{"idx": 61, "label": 0, "gen": "World", "pred": 0, "conf": 0.659102201461792}
+{"idx": 62, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8878788352012634}
+{"idx": 63, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.7108692526817322}
+{"idx": 64, "label": 1, "gen": "World", "pred": 0, "conf": 0.6917701959609985}
+{"idx": 65, "label": 1, "gen": "World", "pred": 0, "conf": 0.8336952328681946}
+{"idx": 66, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6106185913085938}
+{"idx": 67, "label": 1, "gen": "World", "pred": 0, "conf": 0.9113211035728455}
+{"idx": 68, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8647811412811279}
+{"idx": 69, "label": 1, "gen": "Class: World", "pred": 2, "conf": 0.553356409072876}
+{"idx": 70, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.4438685476779938}
+{"idx": 71, "label": 1, "gen": "World", "pred": 0, "conf": 0.775036633014679}
+{"idx": 72, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8450794816017151}
+{"idx": 73, "label": 1, "gen": "Business", "pred": 2, "conf": 0.6059851050376892}
+{"idx": 74, "label": 2, "gen": "World", "pred": 0, "conf": 0.6581171751022339}
+{"idx": 75, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8094619512557983}
+{"idx": 76, "label": 1, "gen": "Business", "pred": 2, "conf": 0.6343107223510742}
+{"idx": 77, "label": 0, "gen": "World", "pred": 0, "conf": 0.8196105360984802}
+{"idx": 78, "label": 3, "gen": "World", "pred": 0, "conf": 0.5973767638206482}
+{"idx": 79, "label": 2, "gen": "Business", "pred": 2, "conf": 0.9452504515647888}
+{"idx": 80, "label": 2, "gen": "Business", "pred": 2, "conf": 0.5024212598800659}
+{"idx": 81, "label": 1, "gen": "World", "pred": 0, "conf": 0.4935971200466156}
+{"idx": 82, "label": 1, "gen": "Sports", "pred": 1, "conf": 0.3709865212440491}
+{"idx": 83, "label": 3, "gen": "Class: World", "pred": 0, "conf": 0.7233470678329468}
+{"idx": 84, "label": 0, "gen": "World", "pred": 0, "conf": 0.8414860963821411}
+{"idx": 85, "label": 1, "gen": "Business", "pred": 2, "conf": 0.6113454103469849}
+{"idx": 86, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.4435867965221405}
+{"idx": 87, "label": 1, "gen": "Business", "pred": 2, "conf": 0.6296040415763855}
+{"idx": 88, "label": 1, "gen": "Business", "pred": 2, "conf": 0.8929632902145386}
+{"idx": 89, "label": 0, "gen": "Business", "pred": 2, "conf": 0.5792537331581116}
+{"idx": 90, "label": 3, "gen": "Class: World", "pred": 0, "conf": 0.621507465839386}
+{"idx": 91, "label": 0, "gen": "World", "pred": 0, "conf": 0.9308500289916992}
+{"idx": 92, "label": 2, "gen": "Business", "pred": 2, "conf": 0.617123544216156}
+{"idx": 93, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6674080491065979}
+{"idx": 94, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.6022629141807556}
+{"idx": 95, "label": 0, "gen": "World", "pred": 0, "conf": 0.6398516893386841}
+{"idx": 96, "label": 0, "gen": "Class: World", "pred": 0, "conf": 0.6768808364868164}
+{"idx": 97, "label": 2, "gen": "World", "pred": 0, "conf": 0.6073095202445984}
+{"idx": 98, "label": 0, "gen": "World", "pred": 0, "conf": 0.8857690691947937}
+{"idx": 99, "label": 1, "gen": "Sports", "pred": 1, "conf": 0.4408971667289734}
+{"idx": 100, "label": 2, "gen": "Business", "pred": 2, "conf": 0.620484471321106}
+{"idx": 101, "label": 2, "gen": "Class: Business", "pred": 0, "conf": 0.7265834212303162}
+{"idx": 102, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7000143527984619}
+{"idx": 103, "label": 0, "gen": "World", "pred": 0, "conf": 0.8699133992195129}
+{"idx": 104, "label": 0, "gen": "Business", "pred": 2, "conf": 0.6281288266181946}
+{"idx": 105, "label": 1, "gen": "Class: Sports", "pred": 2, "conf": 0.5139683485031128}
+{"idx": 106, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8273806571960449}
+{"idx": 107, "label": 3, "gen": "Business", "pred": 2, "conf": 0.7480300068855286}
+{"idx": 108, "label": 3, "gen": "Class: Sports", "pred": 0, "conf": 0.6305423378944397}
+{"idx": 109, "label": 1, "gen": "World", "pred": 0, "conf": 0.4132324159145355}
+{"idx": 110, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8936654329299927}
+{"idx": 111, "label": 2, "gen": "Business", "pred": 2, "conf": 0.550713062286377}
+{"idx": 112, "label": 2, "gen": "Business", "pred": 2, "conf": 0.9055485725402832}
+{"idx": 113, "label": 2, "gen": "Business", "pred": 2, "conf": 0.5675374865531921}
+{"idx": 114, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7505804300308228}
+{"idx": 115, "label": 2, "gen": "World", "pred": 0, "conf": 0.649392306804657}
+{"idx": 116, "label": 3, "gen": "Business", "pred": 2, "conf": 0.573302686214447}
+{"idx": 117, "label": 2, "gen": "Business", "pred": 2, "conf": 0.9722612500190735}
+{"idx": 118, "label": 1, "gen": "World", "pred": 0, "conf": 0.8178079724311829}
+{"idx": 119, "label": 0, "gen": "World", "pred": 0, "conf": 0.8146712779998779}
+{"idx": 120, "label": 3, "gen": "World", "pred": 0, "conf": 0.5421473383903503}
+{"idx": 121, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6432479023933411}
+{"idx": 122, "label": 0, "gen": "World", "pred": 0, "conf": 0.8303532600402832}
+{"idx": 123, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.8885303735733032}
+{"idx": 124, "label": 1, "gen": "Class: Sports", "pred": 2, "conf": 0.5224120616912842}
+{"idx": 125, "label": 3, "gen": "Business", "pred": 2, "conf": 0.5820587277412415}
+{"idx": 126, "label": 0, "gen": "World", "pred": 0, "conf": 0.7098031640052795}
+{"idx": 127, "label": 0, "gen": "World", "pred": 0, "conf": 0.7730709910392761}
+{"idx": 128, "label": 2, "gen": "World", "pred": 0, "conf": 0.526633620262146}
+{"idx": 129, "label": 3, "gen": "World", "pred": 0, "conf": 0.70650315284729}
+{"idx": 130, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8610764145851135}
+{"idx": 131, "label": 2, "gen": "Business", "pred": 2, "conf": 0.5275609493255615}
+{"idx": 132, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.6621912121772766}
+{"idx": 133, "label": 1, "gen": "World", "pred": 0, "conf": 0.5955469012260437}
+{"idx": 134, "label": 0, "gen": "World", "pred": 0, "conf": 0.8768479824066162}
+{"idx": 135, "label": 0, "gen": "World", "pred": 0, "conf": 0.8058420419692993}
+{"idx": 136, "label": 3, "gen": "Class: Business", "pred": 2, "conf": 0.6899207234382629}
+{"idx": 137, "label": 1, "gen": "Sports", "pred": 1, "conf": 0.6429141163825989}
+{"idx": 138, "label": 2, "gen": "Business", "pred": 2, "conf": 0.9614427089691162}
+{"idx": 139, "label": 1, "gen": "Sci/Tech", "pred": 3, "conf": 0.4686802625656128}
+{"idx": 140, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7954488396644592}
+{"idx": 141, "label": 2, "gen": "Business", "pred": 2, "conf": 0.5897218585014343}
+{"idx": 142, "label": 3, "gen": "World  \nWorld", "pred": 0, "conf": 0.5299518704414368}
+{"idx": 143, "label": 3, "gen": "Business", "pred": 2, "conf": 0.5894739627838135}
+{"idx": 144, "label": 0, "gen": "Class: Business", "pred": 0, "conf": 0.5867657661437988}
+{"idx": 145, "label": 3, "gen": "Business", "pred": 2, "conf": 0.9459538459777832}
+{"idx": 146, "label": 3, "gen": "World", "pred": 0, "conf": 0.5784366130828857}
+{"idx": 147, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.46147269010543823}
+{"idx": 148, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6167383193969727}
+{"idx": 149, "label": 3, "gen": "World", "pred": 0, "conf": 0.6869295835494995}
+{"idx": 150, "label": 2, "gen": "World", "pred": 0, "conf": 0.5257588624954224}
+{"idx": 151, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6053111553192139}
+{"idx": 152, "label": 1, "gen": "World", "pred": 0, "conf": 0.7592152953147888}
+{"idx": 153, "label": 3, "gen": "Sci/Tech", "pred": 3, "conf": 0.45995813608169556}
+{"idx": 154, "label": 0, "gen": "Business", "pred": 2, "conf": 0.7823349833488464}
+{"idx": 155, "label": 1, "gen": "Sci/Tech", "pred": 3, "conf": 0.6471406817436218}
+{"idx": 156, "label": 1, "gen": "World", "pred": 0, "conf": 0.7068861722946167}
+{"idx": 157, "label": 3, "gen": "Business", "pred": 2, "conf": 0.7952827215194702}
+{"idx": 158, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.8579628467559814}
+{"idx": 159, "label": 1, "gen": "World", "pred": 0, "conf": 0.7216326594352722}
+{"idx": 160, "label": 3, "gen": "Sci/Tech", "pred": 3, "conf": 0.5735937356948853}
+{"idx": 161, "label": 1, "gen": "Sports", "pred": 1, "conf": 0.5348401069641113}
+{"idx": 162, "label": 2, "gen": "Business", "pred": 2, "conf": 0.5209873914718628}
+{"idx": 163, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7542255520820618}
+{"idx": 164, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7717778086662292}
+{"idx": 165, "label": 0, "gen": "World", "pred": 0, "conf": 0.929523229598999}
+{"idx": 166, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.4725528061389923}
+{"idx": 167, "label": 0, "gen": "World", "pred": 0, "conf": 0.8119705319404602}
+{"idx": 168, "label": 3, "gen": "Business", "pred": 2, "conf": 0.5749222636222839}
+{"idx": 169, "label": 2, "gen": "World", "pred": 0, "conf": 0.7202348113059998}
+{"idx": 170, "label": 0, "gen": "World", "pred": 0, "conf": 0.8010574579238892}
+{"idx": 171, "label": 2, "gen": "Business", "pred": 2, "conf": 0.5602365732192993}
+{"idx": 172, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8735669255256653}
+{"idx": 173, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8757835626602173}
+{"idx": 174, "label": 2, "gen": "World", "pred": 0, "conf": 0.7343872785568237}
+{"idx": 175, "label": 1, "gen": "Business", "pred": 2, "conf": 0.49803873896598816}
+{"idx": 176, "label": 0, "gen": "World", "pred": 0, "conf": 0.963201105594635}
+{"idx": 177, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7028709650039673}
+{"idx": 178, "label": 1, "gen": "World", "pred": 0, "conf": 0.5812941193580627}
+{"idx": 179, "label": 0, "gen": "World", "pred": 0, "conf": 0.6572329998016357}
+{"idx": 180, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6926026344299316}
+{"idx": 181, "label": 0, "gen": "Business", "pred": 2, "conf": 0.8493232727050781}
+{"idx": 182, "label": 3, "gen": "World", "pred": 0, "conf": 0.3600253760814667}
+{"idx": 183, "label": 0, "gen": "World", "pred": 0, "conf": 0.6627698540687561}
+{"idx": 184, "label": 2, "gen": "World", "pred": 0, "conf": 0.558402955532074}
+{"idx": 185, "label": 2, "gen": "World", "pred": 0, "conf": 0.5766695141792297}
+{"idx": 186, "label": 2, "gen": "Business", "pred": 2, "conf": 0.5852987766265869}
+{"idx": 187, "label": 0, "gen": "World", "pred": 0, "conf": 0.759896457195282}
+{"idx": 188, "label": 2, "gen": "World", "pred": 0, "conf": 0.607315182685852}
+{"idx": 189, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.46600955724716187}
+{"idx": 190, "label": 0, "gen": "Business", "pred": 2, "conf": 0.7149792909622192}
+{"idx": 191, "label": 0, "gen": "World", "pred": 0, "conf": 0.4519675374031067}
+{"idx": 192, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8576041460037231}
+{"idx": 193, "label": 2, "gen": "World", "pred": 0, "conf": 0.8182716965675354}
+{"idx": 194, "label": 1, "gen": "Business", "pred": 2, "conf": 0.5037278532981873}
+{"idx": 195, "label": 0, "gen": "Business", "pred": 2, "conf": 0.6567074060440063}
+{"idx": 196, "label": 1, "gen": "World", "pred": 0, "conf": 0.4000694453716278}
+{"idx": 197, "label": 3, "gen": "Business", "pred": 2, "conf": 0.5665295124053955}
+{"idx": 198, "label": 2, "gen": "World", "pred": 0, "conf": 0.6049802899360657}
+{"idx": 199, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8577114343643188}
+{"idx": 200, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6107114553451538}
+{"idx": 201, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8987400531768799}
+{"idx": 202, "label": 2, "gen": "World  \nWorld", "pred": 0, "conf": 0.49847325682640076}
+{"idx": 203, "label": 2, "gen": "Business", "pred": 2, "conf": 0.5089655518531799}
+{"idx": 204, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8976477384567261}
+{"idx": 205, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6201231479644775}
+{"idx": 206, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.8524499535560608}
+{"idx": 207, "label": 2, "gen": "World", "pred": 0, "conf": 0.7077921032905579}
+{"idx": 208, "label": 3, "gen": "Class: Business", "pred": 2, "conf": 0.6438747644424438}
+{"idx": 209, "label": 1, "gen": "World", "pred": 0, "conf": 0.9142879843711853}
+{"idx": 210, "label": 0, "gen": "Class: Sports", "pred": 0, "conf": 0.6500997543334961}
+{"idx": 211, "label": 0, "gen": "World", "pred": 0, "conf": 0.5656311511993408}
+{"idx": 212, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.7817236185073853}
+{"idx": 213, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8897229433059692}
+{"idx": 214, "label": 0, "gen": "World", "pred": 0, "conf": 0.7892224192619324}
+{"idx": 215, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6778934001922607}
+{"idx": 216, "label": 3, "gen": "World  \nWorld", "pred": 0, "conf": 0.7686256766319275}
+{"idx": 217, "label": 0, "gen": "Class: World", "pred": 0, "conf": 0.5416368842124939}
+{"idx": 218, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8097017407417297}
+{"idx": 219, "label": 0, "gen": "World", "pred": 0, "conf": 0.8628883361816406}
+{"idx": 220, "label": 0, "gen": "World", "pred": 0, "conf": 0.8924857378005981}
+{"idx": 221, "label": 1, "gen": "Class: Sports", "pred": 2, "conf": 0.44286757707595825}
+{"idx": 222, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.4265739321708679}
+{"idx": 223, "label": 0, "gen": "World", "pred": 0, "conf": 0.8679007887840271}
+{"idx": 224, "label": 2, "gen": "World  \nWorld", "pred": 0, "conf": 0.5579043030738831}
+{"idx": 225, "label": 2, "gen": "World", "pred": 0, "conf": 0.5576704144477844}
+{"idx": 226, "label": 2, "gen": "Business", "pred": 2, "conf": 0.5019804239273071}
+{"idx": 227, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8798544406890869}
+{"idx": 228, "label": 2, "gen": "World", "pred": 0, "conf": 0.6629222631454468}
+{"idx": 229, "label": 1, "gen": "World", "pred": 0, "conf": 0.5037443041801453}
+{"idx": 230, "label": 2, "gen": "Class: Business", "pred": 2, "conf": 0.5588992834091187}
+{"idx": 231, "label": 3, "gen": "Sci/Tech", "pred": 3, "conf": 0.7472513318061829}
+{"idx": 232, "label": 0, "gen": "World", "pred": 0, "conf": 0.77135169506073}
+{"idx": 233, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8516380786895752}
+{"idx": 234, "label": 0, "gen": "Class: World", "pred": 0, "conf": 0.8204717040061951}
+{"idx": 235, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8283246159553528}
+{"idx": 236, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6496697664260864}
+{"idx": 237, "label": 1, "gen": "Business", "pred": 2, "conf": 0.6887598037719727}
+{"idx": 238, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.6169180274009705}
+{"idx": 239, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.49318522214889526}
+{"idx": 240, "label": 0, "gen": "Class: World", "pred": 0, "conf": 0.4937361478805542}
+{"idx": 241, "label": 1, "gen": "Business", "pred": 2, "conf": 0.6179892420768738}
+{"idx": 242, "label": 0, "gen": "World", "pred": 0, "conf": 0.8294761776924133}
+{"idx": 243, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8144539594650269}
+{"idx": 244, "label": 0, "gen": "World", "pred": 0, "conf": 0.6340773105621338}
+{"idx": 245, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8069740533828735}
+{"idx": 246, "label": 0, "gen": "World", "pred": 0, "conf": 0.453881174325943}
+{"idx": 247, "label": 0, "gen": "World", "pred": 0, "conf": 0.7210977077484131}
+{"idx": 248, "label": 1, "gen": "Sci/Tech", "pred": 3, "conf": 0.5233475565910339}
+{"idx": 249, "label": 3, "gen": "Business", "pred": 2, "conf": 0.7024381756782532}
+{"idx": 250, "label": 3, "gen": "Sci/Tech", "pred": 3, "conf": 0.6412632465362549}
+{"idx": 251, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6874295473098755}
+{"idx": 252, "label": 0, "gen": "World", "pred": 0, "conf": 0.45763131976127625}
+{"idx": 253, "label": 2, "gen": "Business", "pred": 2, "conf": 0.4632086753845215}
+{"idx": 254, "label": 2, "gen": "Business", "pred": 2, "conf": 0.4925598204135895}
+{"idx": 255, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6077623963356018}
+{"idx": 256, "label": 3, "gen": "World", "pred": 0, "conf": 0.6393752694129944}
+{"idx": 257, "label": 2, "gen": "World", "pred": 0, "conf": 0.5944279432296753}
+{"idx": 258, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6676726937294006}
+{"idx": 259, "label": 2, "gen": "World", "pred": 0, "conf": 0.7120822072029114}
+{"idx": 260, "label": 0, "gen": "World", "pred": 0, "conf": 0.8884073495864868}
+{"idx": 261, "label": 1, "gen": "Business", "pred": 2, "conf": 0.6989690065383911}
+{"idx": 262, "label": 3, "gen": "Business", "pred": 2, "conf": 0.9032045602798462}
+{"idx": 263, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6406286954879761}
+{"idx": 264, "label": 1, "gen": "Business", "pred": 2, "conf": 0.582733690738678}
+{"idx": 265, "label": 1, "gen": "World", "pred": 0, "conf": 0.5759519338607788}
+{"idx": 266, "label": 3, "gen": "Class: World", "pred": 0, "conf": 0.6965699195861816}
+{"idx": 267, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7952249646186829}
+{"idx": 268, "label": 0, "gen": "Class: Sci/T", "pred": 0, "conf": 0.5746374130249023}
+{"idx": 269, "label": 3, "gen": "World", "pred": 0, "conf": 0.5348863005638123}
+{"idx": 270, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.4835349917411804}
+{"idx": 271, "label": 0, "gen": "Business", "pred": 2, "conf": 0.701401948928833}
+{"idx": 272, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6465518474578857}
+{"idx": 273, "label": 0, "gen": "World", "pred": 0, "conf": 0.7589225172996521}
+{"idx": 274, "label": 1, "gen": "Sports", "pred": 1, "conf": 0.37905046343803406}
+{"idx": 275, "label": 3, "gen": "Business", "pred": 2, "conf": 0.9694296717643738}
+{"idx": 276, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8481159210205078}
+{"idx": 277, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6895367503166199}
+{"idx": 278, "label": 0, "gen": "World", "pred": 0, "conf": 0.7949423789978027}
+{"idx": 279, "label": 0, "gen": "World", "pred": 0, "conf": 0.8047550916671753}
+{"idx": 280, "label": 2, "gen": "World", "pred": 0, "conf": 0.5164656043052673}
+{"idx": 281, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.6038942933082581}
+{"idx": 282, "label": 0, "gen": "Class: Sports", "pred": 0, "conf": 0.4986194372177124}
+{"idx": 283, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7729196548461914}
+{"idx": 284, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8867839574813843}
+{"idx": 285, "label": 3, "gen": "Business", "pred": 2, "conf": 0.9643593430519104}
+{"idx": 286, "label": 3, "gen": "Business", "pred": 2, "conf": 0.9318408966064453}
+{"idx": 287, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6173130869865417}
+{"idx": 288, "label": 1, "gen": "World", "pred": 0, "conf": 0.7687329053878784}
+{"idx": 289, "label": 0, "gen": "World", "pred": 0, "conf": 0.8310906291007996}
+{"idx": 290, "label": 3, "gen": "Business", "pred": 2, "conf": 0.751900851726532}
+{"idx": 291, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6087616086006165}
+{"idx": 292, "label": 0, "gen": "Class: World", "pred": 0, "conf": 0.607276976108551}
+{"idx": 293, "label": 1, "gen": "Business", "pred": 2, "conf": 0.5767422914505005}
+{"idx": 294, "label": 0, "gen": "World", "pred": 0, "conf": 0.8605313897132874}
+{"idx": 295, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8294140100479126}
+{"idx": 296, "label": 1, "gen": "Business", "pred": 2, "conf": 0.6505331993103027}
+{"idx": 297, "label": 2, "gen": "Class: Business", "pred": 2, "conf": 0.5588436722755432}
+{"idx": 298, "label": 1, "gen": "Business", "pred": 2, "conf": 0.39188408851623535}
+{"idx": 299, "label": 1, "gen": "Business", "pred": 2, "conf": 0.4929727613925934}
+{"idx": 300, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8621215224266052}
+{"idx": 301, "label": 0, "gen": "World", "pred": 0, "conf": 0.7496171593666077}
+{"idx": 302, "label": 3, "gen": "Business", "pred": 2, "conf": 0.5505014061927795}
+{"idx": 303, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6193028688430786}
+{"idx": 304, "label": 0, "gen": "World", "pred": 0, "conf": 0.4450974762439728}
+{"idx": 305, "label": 0, "gen": "Business", "pred": 2, "conf": 0.4741058647632599}
+{"idx": 306, "label": 1, "gen": "World", "pred": 0, "conf": 0.9225871562957764}
+{"idx": 307, "label": 0, "gen": "World", "pred": 0, "conf": 0.5550307035446167}
+{"idx": 308, "label": 1, "gen": "Sports", "pred": 1, "conf": 0.6692161560058594}
+{"idx": 309, "label": 0, "gen": "World", "pred": 0, "conf": 0.6398516893386841}
+{"idx": 310, "label": 2, "gen": "Business", "pred": 2, "conf": 0.864284873008728}
+{"idx": 311, "label": 1, "gen": "Sports", "pred": 1, "conf": 0.6847351789474487}
+{"idx": 312, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8478487730026245}
+{"idx": 313, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.6217634677886963}
+{"idx": 314, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6998997926712036}
+{"idx": 315, "label": 0, "gen": "World", "pred": 0, "conf": 0.6701192855834961}
+{"idx": 316, "label": 3, "gen": "World", "pred": 0, "conf": 0.8768715858459473}
+{"idx": 317, "label": 3, "gen": "Class: Sports", "pred": 0, "conf": 0.7533179521560669}
+{"idx": 318, "label": 1, "gen": "World", "pred": 0, "conf": 0.5546901226043701}
+{"idx": 319, "label": 0, "gen": "World", "pred": 0, "conf": 0.5505982637405396}
+{"idx": 320, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6091806292533875}
+{"idx": 321, "label": 3, "gen": "Business", "pred": 2, "conf": 0.9123277068138123}
+{"idx": 322, "label": 0, "gen": "World", "pred": 0, "conf": 0.8350117206573486}
+{"idx": 323, "label": 2, "gen": "Business", "pred": 2, "conf": 0.5408762097358704}
+{"idx": 324, "label": 3, "gen": "Business", "pred": 2, "conf": 0.750741183757782}
+{"idx": 325, "label": 0, "gen": "World", "pred": 0, "conf": 0.705033540725708}
+{"idx": 326, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7890952229499817}
+{"idx": 327, "label": 0, "gen": "World", "pred": 0, "conf": 0.5395386815071106}
+{"idx": 328, "label": 1, "gen": "Business", "pred": 2, "conf": 0.5055448412895203}
+{"idx": 329, "label": 3, "gen": "Business", "pred": 2, "conf": 0.5245776772499084}
+{"idx": 330, "label": 0, "gen": "World", "pred": 0, "conf": 0.8794060945510864}
+{"idx": 331, "label": 1, "gen": "World", "pred": 0, "conf": 0.7258883714675903}
+{"idx": 332, "label": 2, "gen": "World", "pred": 0, "conf": 0.5078171491622925}
+{"idx": 333, "label": 1, "gen": "World", "pred": 0, "conf": 0.41008710861206055}
+{"idx": 334, "label": 2, "gen": "World", "pred": 0, "conf": 0.3889366686344147}
+{"idx": 335, "label": 3, "gen": "World", "pred": 0, "conf": 0.784668505191803}
+{"idx": 336, "label": 2, "gen": "World", "pred": 0, "conf": 0.47492340207099915}
+{"idx": 337, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.3826625347137451}
+{"idx": 338, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6255785822868347}
+{"idx": 339, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7611855268478394}
+{"idx": 340, "label": 0, "gen": "World", "pred": 0, "conf": 0.8656877875328064}
+{"idx": 341, "label": 3, "gen": "World", "pred": 0, "conf": 0.6453955769538879}
+{"idx": 342, "label": 1, "gen": "World", "pred": 0, "conf": 0.5792847275733948}
+{"idx": 343, "label": 1, "gen": "Business", "pred": 2, "conf": 0.3738058805465698}
+{"idx": 344, "label": 3, "gen": "World", "pred": 0, "conf": 0.4795321226119995}
+{"idx": 345, "label": 0, "gen": "World", "pred": 0, "conf": 0.8641289472579956}
+{"idx": 346, "label": 2, "gen": "World", "pred": 0, "conf": 0.776149332523346}
+{"idx": 347, "label": 2, "gen": "World", "pred": 0, "conf": 0.5514419674873352}
+{"idx": 348, "label": 3, "gen": "Business", "pred": 2, "conf": 0.9201568365097046}
+{"idx": 349, "label": 0, "gen": "World", "pred": 0, "conf": 0.5265823006629944}
+{"idx": 350, "label": 0, "gen": "World", "pred": 0, "conf": 0.960600733757019}
+{"idx": 351, "label": 1, "gen": "World", "pred": 0, "conf": 0.8389174342155457}
+{"idx": 352, "label": 3, "gen": "Business", "pred": 2, "conf": 0.707093358039856}
+{"idx": 353, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.5276261568069458}
+{"idx": 354, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8656877875328064}
+{"idx": 355, "label": 0, "gen": "World", "pred": 0, "conf": 0.8786865472793579}
+{"idx": 356, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7279324531555176}
+{"idx": 357, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6145070195198059}
+{"idx": 358, "label": 1, "gen": "World", "pred": 0, "conf": 0.8154148459434509}
+{"idx": 359, "label": 1, "gen": "Class: Sports", "pred": 1, "conf": 0.4031682014465332}
+{"idx": 360, "label": 0, "gen": "World", "pred": 0, "conf": 0.8585596680641174}
+{"idx": 361, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6436129212379456}
+{"idx": 362, "label": 1, "gen": "World", "pred": 0, "conf": 0.5478888750076294}
+{"idx": 363, "label": 2, "gen": "Business", "pred": 2, "conf": 0.5238829255104065}
+{"idx": 364, "label": 1, "gen": "Business", "pred": 2, "conf": 0.36965373158454895}
+{"idx": 365, "label": 3, "gen": "Business", "pred": 2, "conf": 0.923239529132843}
+{"idx": 366, "label": 3, "gen": "Business", "pred": 2, "conf": 0.7510055899620056}
+{"idx": 367, "label": 0, "gen": "World", "pred": 0, "conf": 0.7292951345443726}
+{"idx": 368, "label": 1, "gen": "World", "pred": 0, "conf": 0.3076567053794861}
+{"idx": 369, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6386946439743042}
+{"idx": 370, "label": 0, "gen": "Class: Sports", "pred": 0, "conf": 0.4656814634799957}
+{"idx": 371, "label": 0, "gen": "World", "pred": 0, "conf": 0.823957622051239}
+{"idx": 372, "label": 2, "gen": "World", "pred": 0, "conf": 0.6484190821647644}
+{"idx": 373, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8255696892738342}
+{"idx": 374, "label": 0, "gen": "World", "pred": 0, "conf": 0.8556351661682129}
+{"idx": 375, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6893743872642517}
+{"idx": 376, "label": 2, "gen": "Business", "pred": 2, "conf": 0.548577606678009}
+{"idx": 377, "label": 3, "gen": "Business", "pred": 2, "conf": 0.7748205065727234}
+{"idx": 378, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8128229379653931}
+{"idx": 379, "label": 3, "gen": "Business", "pred": 2, "conf": 0.671791136264801}
+{"idx": 380, "label": 3, "gen": "Business", "pred": 2, "conf": 0.5579184293746948}
+{"idx": 381, "label": 0, "gen": "Class: Sports", "pred": 1, "conf": 0.6605489253997803}
+{"idx": 382, "label": 1, "gen": "World", "pred": 0, "conf": 0.6572329998016357}
+{"idx": 383, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8402441143989563}
+{"idx": 384, "label": 3, "gen": "Business", "pred": 2, "conf": 0.9604325294494629}
+{"idx": 385, "label": 0, "gen": "World", "pred": 0, "conf": 0.7142413854598999}
+{"idx": 386, "label": 0, "gen": "World", "pred": 0, "conf": 0.863347589969635}
+{"idx": 387, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8790637254714966}
+{"idx": 388, "label": 0, "gen": "World", "pred": 0, "conf": 0.9130208492279053}
+{"idx": 389, "label": 1, "gen": "World", "pred": 0, "conf": 0.6327401399612427}
+{"idx": 390, "label": 3, "gen": "Business", "pred": 2, "conf": 0.7687473297119141}
+{"idx": 391, "label": 2, "gen": "Business", "pred": 2, "conf": 0.9383992552757263}
+{"idx": 392, "label": 0, "gen": "World", "pred": 0, "conf": 0.7191324830055237}
+{"idx": 393, "label": 1, "gen": "World", "pred": 0, "conf": 0.8369674682617188}
+{"idx": 394, "label": 3, "gen": "World  \nWorld", "pred": 0, "conf": 0.7747163772583008}
+{"idx": 395, "label": 1, "gen": "World", "pred": 0, "conf": 0.7958599925041199}
+{"idx": 396, "label": 0, "gen": "World", "pred": 0, "conf": 0.8350117206573486}
+{"idx": 397, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6428917050361633}
+{"idx": 398, "label": 0, "gen": "World", "pred": 0, "conf": 0.8336752653121948}
+{"idx": 399, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.47320204973220825}
+{"idx": 400, "label": 0, "gen": "World", "pred": 0, "conf": 0.5590999126434326}
+{"idx": 401, "label": 1, "gen": "Business", "pred": 2, "conf": 0.7627741694450378}
+{"idx": 402, "label": 2, "gen": "World", "pred": 0, "conf": 0.48748093843460083}
+{"idx": 403, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6820687055587769}
+{"idx": 404, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6547483801841736}
+{"idx": 405, "label": 3, "gen": "Business", "pred": 2, "conf": 0.7970899343490601}
+{"idx": 406, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6440359354019165}
+{"idx": 407, "label": 0, "gen": "World", "pred": 0, "conf": 0.5819664597511292}
+{"idx": 408, "label": 1, "gen": "World", "pred": 0, "conf": 0.5243014097213745}
+{"idx": 409, "label": 3, "gen": "World", "pred": 0, "conf": 0.5274337530136108}
+{"idx": 410, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8159177899360657}
+{"idx": 411, "label": 1, "gen": "World", "pred": 0, "conf": 0.7964856624603271}
+{"idx": 412, "label": 0, "gen": "World", "pred": 0, "conf": 0.8656877875328064}
+{"idx": 413, "label": 3, "gen": "Class: Business", "pred": 2, "conf": 0.5901798009872437}
+{"idx": 414, "label": 1, "gen": "World", "pred": 0, "conf": 0.6964101195335388}
+{"idx": 415, "label": 0, "gen": "World", "pred": 0, "conf": 0.8209867477416992}
+{"idx": 416, "label": 3, "gen": "World", "pred": 0, "conf": 0.600782573223114}
+{"idx": 417, "label": 0, "gen": "World", "pred": 0, "conf": 0.8683404326438904}
+{"idx": 418, "label": 1, "gen": "World", "pred": 0, "conf": 0.697730302810669}
+{"idx": 419, "label": 1, "gen": "World", "pred": 0, "conf": 0.6039641499519348}
+{"idx": 420, "label": 0, "gen": "World", "pred": 0, "conf": 0.5421114563941956}
+{"idx": 421, "label": 0, "gen": "World", "pred": 0, "conf": 0.7414015531539917}
+{"idx": 422, "label": 0, "gen": "World", "pred": 0, "conf": 0.6647576689720154}
+{"idx": 423, "label": 3, "gen": "Class: World", "pred": 0, "conf": 0.7848218083381653}
+{"idx": 424, "label": 0, "gen": "World", "pred": 0, "conf": 0.8401119709014893}
+{"idx": 425, "label": 0, "gen": "World", "pred": 0, "conf": 0.7911183834075928}
+{"idx": 426, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7045377492904663}
+{"idx": 427, "label": 1, "gen": "Business", "pred": 2, "conf": 0.9484917521476746}
+{"idx": 428, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6405091881752014}
+{"idx": 429, "label": 2, "gen": "Business", "pred": 2, "conf": 0.9410078525543213}
+{"idx": 430, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.5288397073745728}
+{"idx": 431, "label": 1, "gen": "Class: Sports", "pred": 2, "conf": 0.5768089294433594}
+{"idx": 432, "label": 3, "gen": "Business", "pred": 2, "conf": 0.9309171438217163}
+{"idx": 433, "label": 2, "gen": "Business", "pred": 2, "conf": 0.6767380237579346}
+{"idx": 434, "label": 1, "gen": "Sci/Tech", "pred": 3, "conf": 0.38726022839546204}
+{"idx": 435, "label": 1, "gen": "World", "pred": 0, "conf": 0.7593923807144165}
+{"idx": 436, "label": 2, "gen": "Business", "pred": 2, "conf": 0.5327801704406738}
+{"idx": 437, "label": 3, "gen": "Business", "pred": 2, "conf": 0.5252354741096497}
+{"idx": 438, "label": 0, "gen": "World", "pred": 0, "conf": 0.680374801158905}
+{"idx": 439, "label": 3, "gen": "Business", "pred": 2, "conf": 0.5978038311004639}
+{"idx": 440, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8171509504318237}
+{"idx": 441, "label": 0, "gen": "World", "pred": 0, "conf": 0.7550946474075317}
+{"idx": 442, "label": 1, "gen": "Business", "pred": 2, "conf": 0.5072759389877319}
+{"idx": 443, "label": 1, "gen": "Business", "pred": 2, "conf": 0.7200959920883179}
+{"idx": 444, "label": 0, "gen": "World", "pred": 0, "conf": 0.7560588717460632}
+{"idx": 445, "label": 1, "gen": "Business", "pred": 2, "conf": 0.41916635632514954}
+{"idx": 446, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.5062465667724609}
+{"idx": 447, "label": 1, "gen": "Class: Sports", "pred": 2, "conf": 0.6137052178382874}
+{"idx": 448, "label": 2, "gen": "World", "pred": 0, "conf": 0.5244153738021851}
+{"idx": 449, "label": 1, "gen": "World", "pred": 0, "conf": 0.7409476637840271}
+{"idx": 450, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7720502018928528}
+{"idx": 451, "label": 0, "gen": "World", "pred": 0, "conf": 0.6271191239356995}
+{"idx": 452, "label": 0, "gen": "World", "pred": 0, "conf": 0.7812641859054565}
+{"idx": 453, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8201403617858887}
+{"idx": 454, "label": 2, "gen": "Business", "pred": 2, "conf": 0.9136710166931152}
+{"idx": 455, "label": 0, "gen": "World", "pred": 0, "conf": 0.5929010510444641}
+{"idx": 456, "label": 1, "gen": "Sports", "pred": 1, "conf": 0.8718964457511902}
+{"idx": 457, "label": 3, "gen": "Sci/Tech", "pred": 3, "conf": 0.5973516702651978}
+{"idx": 458, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.4491731524467468}
+{"idx": 459, "label": 0, "gen": "World", "pred": 0, "conf": 0.8474276065826416}
+{"idx": 460, "label": 3, "gen": "Business", "pred": 2, "conf": 0.7389930486679077}
+{"idx": 461, "label": 0, "gen": "World", "pred": 0, "conf": 0.9042432904243469}
+{"idx": 462, "label": 1, "gen": "Business", "pred": 2, "conf": 0.6258810758590698}
+{"idx": 463, "label": 3, "gen": "World", "pred": 0, "conf": 0.5395386815071106}
+{"idx": 464, "label": 3, "gen": "Business", "pred": 2, "conf": 0.5817968249320984}
+{"idx": 465, "label": 1, "gen": "World", "pred": 0, "conf": 0.6635356545448303}
+{"idx": 466, "label": 0, "gen": "World", "pred": 0, "conf": 0.6670140027999878}
+{"idx": 467, "label": 1, "gen": "World", "pred": 0, "conf": 0.4124578833580017}
+{"idx": 468, "label": 2, "gen": "Business", "pred": 2, "conf": 0.7967480421066284}
+{"idx": 469, "label": 2, "gen": "World", "pred": 0, "conf": 0.7085742354393005}
+{"idx": 470, "label": 2, "gen": "World  \nWorld", "pred": 0, "conf": 0.6185383796691895}
+{"idx": 471, "label": 0, "gen": "World", "pred": 0, "conf": 0.9039068222045898}
+{"idx": 472, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8128044605255127}
+{"idx": 473, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6970109939575195}
+{"idx": 474, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8814347386360168}
+{"idx": 475, "label": 3, "gen": "Business", "pred": 2, "conf": 0.7901157140731812}
+{"idx": 476, "label": 1, "gen": "Sports", "pred": 1, "conf": 0.6089467406272888}
+{"idx": 477, "label": 2, "gen": "Business", "pred": 2, "conf": 0.9022756218910217}
+{"idx": 478, "label": 0, "gen": "World", "pred": 0, "conf": 0.8627886176109314}
+{"idx": 479, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6921795010566711}
+{"idx": 480, "label": 1, "gen": "World", "pred": 0, "conf": 0.4676460027694702}
+{"idx": 481, "label": 0, "gen": "World", "pred": 0, "conf": 0.8527467846870422}
+{"idx": 482, "label": 2, "gen": "Business", "pred": 2, "conf": 0.8020356297492981}
+{"idx": 483, "label": 0, "gen": "World", "pred": 0, "conf": 0.7379250526428223}
+{"idx": 484, "label": 1, "gen": "World", "pred": 0, "conf": 0.8422075510025024}
+{"idx": 485, "label": 1, "gen": "Business", "pred": 2, "conf": 0.676739513874054}
+{"idx": 486, "label": 1, "gen": "Business", "pred": 2, "conf": 0.8373650908470154}
+{"idx": 487, "label": 0, "gen": "World", "pred": 0, "conf": 0.5566478371620178}
+{"idx": 488, "label": 1, "gen": "World", "pred": 0, "conf": 0.44296663999557495}
+{"idx": 489, "label": 0, "gen": "World", "pred": 0, "conf": 0.6276574730873108}
+{"idx": 490, "label": 1, "gen": "Class: Sports", "pred": 0, "conf": 0.6411274671554565}
+{"idx": 491, "label": 3, "gen": "Business", "pred": 2, "conf": 0.646186351776123}
+{"idx": 492, "label": 0, "gen": "World", "pred": 0, "conf": 0.8066309690475464}
+{"idx": 493, "label": 3, "gen": "Class: Sports", "pred": 2, "conf": 0.5026135444641113}
+{"idx": 494, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8029955625534058}
+{"idx": 495, "label": 2, "gen": "World", "pred": 0, "conf": 0.5596176385879517}
+{"idx": 496, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6880821585655212}
+{"idx": 497, "label": 1, "gen": "Business", "pred": 2, "conf": 0.4516954720020294}
+{"idx": 498, "label": 3, "gen": "Business", "pred": 2, "conf": 0.6487008929252625}
+{"idx": 499, "label": 3, "gen": "Business", "pred": 2, "conf": 0.8514960408210754}
