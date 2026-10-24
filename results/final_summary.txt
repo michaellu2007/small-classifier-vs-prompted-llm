@@ -1,0 +1,27 @@
+arm              k=4    k=8    k=16   k=32   k=64   k=128  k=256 
+tfidf_logres     0.395±0.013 0.508±0.001 0.571±0.018 0.665±0.021 0.745±0.019 0.786±0.007 0.821±0.012
+minilm_logres    0.674±0.037 0.757±0.019 0.809±0.001 0.823±0.008 0.837±0.009 0.842±0.004 0.847±0.012
+setfit_minilm      —   0.779±0.016   —   0.860±0.008   —     —     —  
+decoder_8shot    0.341 (水平线, 零训练预算)
+
+deoder CPU: Yahoo 域移 F1=0.298 | CPU 延迟 1264 ms/例(p90 1343)
+
+SetFit 臂(对比微调, CPU ~112s/次):
+  k=  8: F1=0.779±0.016 ECE=0.235 域移F1=0.607
+  k= 32: F1=0.860±0.008 ECE=0.033 域移F1=0.721
+>>> tfidf_logres 在 k=8 处反超 decoder (0.508 vs 0.341)
+>>> minilm_logres 在 k=8 处反超 decoder (0.757 vs 0.341)
+>>> setfit_minilm 在 k=8 处反超 decoder (0.779 vs 0.341)
+
+校准 (ECE) 与延迟:
+tfidf_logres     ECE@32=0.269  延迟=0.8 ms/例
+minilm_logres    ECE@32=0.098  延迟=22.1 ms/例
+setfit_minilm    ECE@32=0.033  延迟=—(训练耗时见上)
+decoder          ECE=0.244  延迟=15.0 ms/例(batch1)
+
+域移 (k=32, AG News → Yahoo 对齐标签):
+tfidf_logres     in=0.665 ood=0.356 Δ=-0.309
+minilm_logres    in=0.823 ood=0.595 Δ=-0.228
+setfit_minilm    in=0.860 ood=0.721 Δ=-0.139
+
+图已存: /root/llm26-project/topic07-small-classifier/results/learning_curves.png

@@ -1,0 +1,8 @@
+{
+  "arm": "decoder_qwen06b_8shot_cpu",
+  "shift_macro_f1": 0.29844894193622784,
+  "shift_acc": 0.36,
+  "n_shift": 100,
+  "ms_per_example_batch1_cpu": 1264.3591466592625,
+  "ms_p90_cpu": 1342.934254091233
+}
