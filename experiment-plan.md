@@ -54,3 +54,10 @@ Decoder 臂(8-shot):macro-F1 0.341,acc 0.442,ECE 0.244(过度自信),15.0 ms/例
 - 交叉点:所有分类臂在 k=8 即反超 decoder(0.508/0.757/0.779 vs 0.341),与 Kasa et al. (2025) 的样本效率结论一致。
 
 曲线图:`results/learning_curves.png`(已含 SetFit 与全 k 网格);完整数字:`results/final_summary.txt`。
+
+## 7. 相关工作对照(2026-10-23)
+
+- **Gao et al. 2020(LM-BFF, [arXiv:2012.15723](https://arxiv.org/abs/2012.15723))**:少样本**微调**胜过免梯度上下文学习(355M RoBERTa 匹敌 GPT-3 few-shot ICL)。**印证**:我们的 SetFit@k=32(0.860)对 decoder 8-shot(0.341)是同一结论的现代版,并补充校准/延迟/域移三维。
+- **Tunstall et al. 2022(SetFit)**:对比句向量微调,本文 SetFit 臂的直接来源;我们补充了与 LLM decoder 及延迟-成本的对照。
+- **Kasa et al. 2025(EMNLP, [arXiv:2506.12181](https://arxiv.org/abs/2506.12181))**:四范式样本效率对比。**延伸**:他们比范式,我们给出部署决策表(标注预算 → 方案 → F1/校准/延迟/鲁棒),并新增 SetFit 在低 k 区间的统治性证据。
+- 定位:交叉点"k=8 即反超"与 LM-BFF/Kasa 的结论一致;增量在**多维权衡表 + CPU/GPU 成本实测(87×)+ 域移稳定性排序**。
